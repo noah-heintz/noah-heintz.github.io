@@ -6,6 +6,8 @@ layout: single
 author_profile: true
 ---
 
+### Education
+
 * University of Colorado Boulder - MS in Applied Mathematics (Spring 2027)
   * Specialization in Statistics and Data Science
 
