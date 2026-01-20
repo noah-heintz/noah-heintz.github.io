@@ -6,6 +6,8 @@ layout: single
 author_profile: true
 ---
 
+## Home
+
 ### Education
 
 * University of Colorado Boulder - MS in Applied Mathematics (Spring 2027)
