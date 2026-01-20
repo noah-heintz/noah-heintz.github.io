@@ -5,7 +5,7 @@ permalink: /skills/
 
 ### Technical Skills
 
-* **Programming**: Python (NumPy, Pandas, scikit-learn, PyTorch), R (tidyverse, dplyr), SQL
+* **Programming**: Python (NumPy, Pandas, scikit-learn), R (tidyverse, dplyr), SQL
 
 * **Data Science & Statistics**: Statistical Modeling, Hypothesis Testing, Bootstrapping, Linear Regression
 
